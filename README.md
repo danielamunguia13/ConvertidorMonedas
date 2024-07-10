@@ -53,7 +53,7 @@ Filtro las monedas de interés según los criterios que establezca. Esto puede i
 
 ## Acceso al proyecto
 
-Puedes acceder al proyecto clonando el repositorio desde [GitHub](#https://github.com/danielamunguia13/ConvertidorMonedas).
+Puedes acceder al proyecto clonando el repositorio desde [GitHub](#https://github.com/danielamunguia13/ConvertidorMonedas) .
 
 ## Tecnologías utilizadas
 
