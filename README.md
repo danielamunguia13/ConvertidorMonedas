@@ -1,6 +1,8 @@
-<h1 align="center"> Conversor de Monedas</h1>
+<h1 align="center"> Conversor de Monedas🌍💸</h1>
 
 Este Conversor de Monedas me permitirá convertir entre diferentes monedas utilizando datos de una API de tasas de cambio. El proyecto se desarrollará en varias etapas, cada una enfocada en un aspecto clave del desarrollo y la manipulación de datos. A continuación, se detallan los pasos del desafío:
+
+   ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ## Índice
 
@@ -59,3 +61,7 @@ Puedes acceder al proyecto clonando el repositorio desde [GitHub](#).
 - Java
 - `Gson` o `Jackson` para la manipulación de JSON
 
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Daniela Munguias</sub>](https://github.com/danielamunguia13) 
+| :---: | 
