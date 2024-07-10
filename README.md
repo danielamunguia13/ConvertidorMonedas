@@ -1,10 +1,10 @@
-<h1 align="center"> Conversor de Monedas</h1>
+<h1 align="center"> Conversor de Monedas🌍💸 </h1>
 
 Este Conversor de Monedas me permitirá convertir entre diferentes monedas utilizando datos de una API de tasas de cambio. El proyecto se desarrollará en varias etapas, cada una enfocada en un aspecto clave del desarrollo y la manipulación de datos. A continuación, se detallan los pasos del desafío:
 
 ## Índice
 
-- [Título e imagen de portada](#conversor-de-monedas)
+- [Título e imagen de portada](#conversor-de-monedas🌍💸)
 - [Índice](#índice)
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
