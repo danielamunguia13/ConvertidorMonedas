@@ -4,7 +4,7 @@ Este Conversor de Monedas me permitirá convertir entre diferentes monedas utili
 
 ## Índice
 
-- [Título e imagen de portada](#Conversor-de-Monedas)
+- [Título e imagen de portada](#conversor-de-monedas)
 - [Índice](#índice)
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
