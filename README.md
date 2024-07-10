@@ -8,7 +8,6 @@ Este Conversor de Monedas me permitirá convertir entre diferentes monedas utili
 - [Insignias](#insignias)
 - [Índice](#índice)
 - [Descripción del proyecto](#descripción-del-proyecto)
-- [Estado del proyecto](#estado-del-proyecto)
 - [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
 - [Acceso al proyecto](#acceso-al-proyecto)
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
@@ -37,7 +36,7 @@ Filtro las monedas de interés según los criterios que establezca. Esto puede i
 
 ### 5. Exhibición de Resultados a los Usuarios 📊
 
-Muestro los resultados de manera clara y comprensible. Puedo optar por una interfaz de consola simple o una interfaz gráfica de usuario (GUI) utilizando `JavaFX` o `Swing`.
+Muestro los resultados de manera clara y comprensible. 
 
 ## Requisitos Previos 📋
 
@@ -60,9 +59,4 @@ Puedes acceder al proyecto clonando el repositorio desde [GitHub](#).
 
 - Java
 - `Gson` o `Jackson` para la manipulación de JSON
-- JavaFX o Swing para la interfaz gráfica
-
----
-
-¡Espero que te sea útil! Si necesitas alguna otra modificación, no dudes en decírmelo.
 
