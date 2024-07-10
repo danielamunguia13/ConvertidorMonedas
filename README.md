@@ -63,5 +63,4 @@ Puedes acceder al proyecto clonando el repositorio desde [GitHub](#).
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4](https://github.com/danielamunguia13/ConvertidorMonedas/assets/135189525/f665767c-a4eb-4d78-8fba-0deaa1ea4676](https://avatars.githubusercontent.com/u/135189525?v=4" width=115><br><sub>Daniela Munguias</sub>](https://github.com/danielamunguia13) 
-| :---: | 
+| [<img src="https://github.com/account" width=115><br><sub>Daniela Munguias</sub>](https://github.com/danielamunguia13) | 
