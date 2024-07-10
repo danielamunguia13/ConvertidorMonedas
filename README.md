@@ -24,7 +24,7 @@ Me aseguro de tener instalado el Java Development Kit (JDK) en mi máquina. Pued
 
 ### 2. Consumo de la API 🌐
 
-Encuentro una API de tasas de cambio de monedas, como [exchangerateapi.io](https://www.exchangerate-api.com/). Realizo una solicitud GET a la API para obtener las tasas de cambio.
+Encuentro una API de tasas de cambio de monedas, como [exchangerateapi.com](https://www.exchangerate-api.com/). Realizo una solicitud GET a la API para obtener las tasas de cambio.
 
 ### 3. Análisis de la Respuesta JSON 📝
 
