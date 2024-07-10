@@ -16,7 +16,7 @@ Este Conversor de Monedas me permitirá convertir entre diferentes monedas utili
 
 El Conversor de Monedas es un reto de Alura, y mi proyecto en Java se desarrolla en varias etapas, permitiéndome trabajar con APIs, manipulación de datos JSON, y la presentación de resultados al usuario. 
 
-## Pasos del Desafío 🛠️
+## Características de la aplicación y demostración🛠️
 
 ### 1. Configuración del Ambiente Java ☕
 
@@ -36,7 +36,7 @@ Filtro las monedas de interés según los criterios que establezca. Esto puede i
 
 ### 5. Exhibición de Resultados a los Usuarios 📊
 
-Muestro los resultados de manera clara y comprensible. 
+ 
 
 ## Requisitos Previos 📋
 
