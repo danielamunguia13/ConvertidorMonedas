@@ -62,4 +62,4 @@ Puedes acceder al proyecto clonando el repositorio desde [GitHub](#).
 
 ## Autores
 
-- [Daniela Munguía Alfaro](https://github.com/danielamunguia13
+- [Daniela Munguía Alfaro](https://github.com/danielamunguia13)
